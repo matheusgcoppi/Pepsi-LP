@@ -87,6 +87,10 @@ h3 {
     color: white;
 }
 
+.pepsi-img {
+    
+}
+
 .button {
     background-color: white;
     width: 200px;
@@ -95,6 +99,21 @@ h3 {
     text-transform: uppercase;
     border-radius: 50px;
 }
+
+.img-media {
+    color: white;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.fc-img {
+    margin-bottom: 30px;
+}
+.tw-img {
+    margin-bottom: 30px;
+} 
 
  /* 
  * ===================================
