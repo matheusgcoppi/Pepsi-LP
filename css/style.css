@@ -63,6 +63,11 @@
 .section div {
     margin: 0 auto;
     
+    
+}
+
+.div-h1 {
+    padding-left: 200px;
 }
 
 h1 {
@@ -88,7 +93,7 @@ h3 {
 }
 
 .pepsi-img {
-    
+    padding-left: 500px;
 }
 
 .button {
