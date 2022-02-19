@@ -116,10 +116,15 @@ h3 {
 
 .fc-img {
     margin-bottom: 30px;
+    color: white;
 }
 .tw-img {
     margin-bottom: 30px;
 } 
+
+.ig-icon {
+    color: white;
+}
 
  /* 
  * ===================================
